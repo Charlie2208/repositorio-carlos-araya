@@ -1,0 +1,94 @@
+[
+    {
+        "img":"https://imagenes-portafolio.s3.amazonaws.com/fotos-portafolio/eventosantofa.png",
+        "titulo":"Eventos Antofa",
+        "descripcion":"Aplicación web realizada para recolectar y unificar la infomación de los eventos artisticos desarrollados en la ciudad de Antofagasta",
+        "stacks":{
+            "n1":"Vue",
+            "logon1":"logo-vue",
+            "n2":"Vuetify",
+            "logon2":"logo-css3",
+            "n3":"Firebase",
+            "logon3":"logo-firebase"
+        },
+        "id":"1",
+        "github":"https://github.com/Charlie2208/eventos_antofa",
+        "link":"https://eventosantofa.info/"
+    },
+    {
+        "img":"https://imagenes-portafolio.s3.amazonaws.com/fotos-portafolio/hsalfate-page.png",
+        "titulo":"HSalfate",
+        "descripcion":"Página Web realizada para la empresa HSalfate",
+        "stacks":{
+            "n1":"Nuxt",
+            "logon1":"logo-vue",
+            "n2":"Vuetify",
+            "logon2":"logo-css3"
+        },
+        "id":"2",
+        "github":"https://github.com/Charlie2208/hsalfate-web",
+        "link":"https://main--hsalfate.netlify.app/" 
+    },
+    {
+        "img":"https://imagenes-portafolio.s3.amazonaws.com/fotos-portafolio/tip-calculator.png",
+        "titulo":"Calculadora de propinas",
+        "descripcion":"Desafio de la página frontEnd Mentor, este consiste en crear una aplicación que calcule la propina a dar en un local cuando la cuenta la pagan múltiples personas",
+        "stacks":{
+            "n1":"React",
+            "logon1":"logo-react",
+            "n2":"Tailwind",
+            "logon2":"logo-css3",
+            "n3":"Javascript",
+            "logon3":"logo-javascript"
+        },
+        "id":"3",
+        "github":"https://github.com/Charlie2208/tip-calculator",
+        "link":"https://calculadora-propinas-carlosaraya.netlify.app/"   
+    },
+    {
+        "img":"https://imagenes-portafolio.s3.amazonaws.com/fotos-portafolio/tienda-latss.png",
+        "titulo":"Tienda LATSS",
+        "descripcion":"Tienda desarrollada por el gestor de contenido Wordpress y el plugin Woocommerce, cuenta con pasarela de pago de MercadoPago además de CSS personalizado",
+        "stacks":{
+            "n1":"Wordpress",
+            "logon1":"logo-wordpress",
+            "n2":"CSS",
+            "logon2":"logo-css3"
+        },
+        "id":"4",
+        "github":"null",
+        "link":"null"   
+    },
+    {
+        "img":"https://imagenes-portafolio.s3.amazonaws.com/fotos-portafolio/pasteleria-js-vanila.png",
+        "titulo":"Pasteleria",
+        "descripcion":"Proyecto para poner el práctica las habilidades, el carro de compra es hecho unicamente con JavaScript",
+        "stacks":{
+            "n1":"JavaScript",
+            "logon1":"logo-javascript",
+            "n2":"Bootstrap",
+            "logon2":"logo-css3"
+        },
+        "id":"5",
+        "github":"https://github.com/Charlie2208/carrito-compra-jsvanilla",
+        "link":"https://effulgent-puffpuff-b40a83.netlify.app/"   
+    },
+    {
+        "img":"https://imagenes-portafolio.s3.amazonaws.com/fotos-portafolio/supermercado-lista.png",
+        "titulo":"Lista de Supermercado App",
+        "descripcion":"Aplicación web para generar listas de supermercado, desarrollado con Firebase y Vue",
+        "stacks":{
+            "n1":"Vue",
+            "logon1":"logo-vue",
+            "n2":"Vuetify",
+            "logon2":"logo-css3",
+            "n3":"Firebase",
+            "logon3":"logo-firebase"
+        },
+        "id":"6",
+        "github":"https://github.com/Charlie2208/supermercado_app",
+        "link":"https://wonderful-squirrel-14f711.netlify.app/"   
+    }
+    
+    
+]
