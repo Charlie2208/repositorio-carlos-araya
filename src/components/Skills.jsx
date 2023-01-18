@@ -34,7 +34,7 @@ const Skills = () => {
                     })}
                 </div>
                 <h2 className="text-2xl my-3 mt-10">Frameworks y Librerias</h2>
-                <div className="flex">
+                <div className="grid grid-cols-2  md:flex">
                     {librerias.map((item)=>{
                         return(
                             <Tag nombre={item.nombre} icono={item.icono} />

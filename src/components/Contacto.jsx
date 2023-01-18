@@ -15,8 +15,8 @@ const Contacto = () => {
                             return(
                                 <li key={item.valor} className="text-xl ml-5 md:ml-20 mt-10">
                                     <span className="text-2xl mr-5"><ion-icon name={item.icono}></ion-icon></span>
-                                    {item.nombre}
-                                    <span className="ml-10">{item.valor}</span>
+                                    <span className="">{item.nombre}</span>
+                                    <span className="ml-3 md:ml-10">{item.valor}</span>
                                 </li>
                             )
                         })

@@ -27,13 +27,13 @@ const CardsPortafolio = () => {
 
     
     return(
-        <div id="proyectos" className="mt-10 md:mt-5 mx-20  md:mx-10">
+        <div id="proyectos" className="mt-10 md:mt-5  md:mx-10">
             <TituloSeccion titulo="Proyectos" />
             <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-10 mt-5 md:ml-10">
 
             {
                        data.map((link)=>(
-                           <div key={link.id} className="card rounded-2xl flex justify-center my-3  ">
+                           <div key={link.id} className="card rounded-2xl flex justify-center my-3 mx-auto  ">
                                <div className="h-56 text-center mx-2 ">
                                     <img src={link.img} className="rounded-2xl" alt="" />
                                     <h1  className="text-xl font-bold">{link.titulo}</h1>
