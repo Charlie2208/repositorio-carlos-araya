@@ -24,7 +24,7 @@ const Skills = () => {
             <TituloSeccion titulo="Skills" />
             <div className="ml-4 md:ml-20">
                 <h2 className="text-2xl my-3 mt-10">Lenguajes</h2>
-                <div className="flex">
+                <div className="grid grid-cols-2  md:flex">
                     {lenguajes.map((item)=>{
                         return(
                             <Tag nombre={item.nombre}
